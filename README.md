@@ -1,4 +1,4 @@
-Freifunk Wetzlar Firmware, 
+Freifunk Gießen Firmware, 
 based on Freifunk Karlsruhe
 ===========================
 
