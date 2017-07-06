@@ -17,7 +17,7 @@ Then download and build as follows:
 
     git clone git://github.com/freifunk-gluon/gluon.git         # Get the official Gluon repository
     cd gluon
-    git clone https://github.com/FreifunkWetzlar/site-ffwz site   			# Get the Freifunk Wetzlar site repository
+    git clone https://github.com/FreifunkWetzlar/site-ffgi site   			# Get the Freifunk Wetzlar site repository
     make update                                                 # Fetch all repositories
     ./site/build.sh
 
